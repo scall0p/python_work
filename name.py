@@ -1,3 +1,5 @@
+# By vinicius vieira | scallop :p
+
 first_name = "vinicius"
 last_name = "vieira"
 full_name = first_name + " " + last_name

@@ -1,3 +1,5 @@
+# By vinicius vieira | scallop :p
+
 print("\n              Calculando e relaxando")
 
 numero_objetivo = str(8)

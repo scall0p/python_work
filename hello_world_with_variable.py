@@ -1,3 +1,5 @@
+# By vinicius vieira | scallop :p
+
 message = "Hello Python world!"
 print(message)
 

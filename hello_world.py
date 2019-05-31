@@ -1,2 +1,3 @@
-print("Hello Python world!")
+# By vinicius vieira | scallop :p
 
+print("Hello Python world!")
